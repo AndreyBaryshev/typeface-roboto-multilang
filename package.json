@@ -1,0 +1,17 @@
+
+{
+  "name": "typeface-roboto-multilang",
+  "version": "1.0.0",
+  "description": "Roboto typeface with support for multiple languages",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "roboto"
+  ],
+  "author": "Andrey Baryshev <as.bar.smr@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/AndreyBaryshev/typeface-roboto-multilang"
+}
